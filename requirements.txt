@@ -1,7 +1,7 @@
-numpy
-pandas
+numpy>=1.24
+pandas>=2.0
 scikit-learn>=1.2
-matplotlib
-reportlab
-pillow
-h5py
+matplotlib>=3.7
+reportlab>=4.0
+pillow>=9.0
+h5py>=3.8

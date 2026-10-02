@@ -4,6 +4,7 @@
 
 ## 실행
 ```bash
+python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 python outputs/regression_pipeline.py          # 학습·평가, 결과 저장, README 갱신
 python outputs/DS-MINI-Day1-report-builder.py  # 보고서 PDF 재생성 (NanumGothic 폰트 필요)

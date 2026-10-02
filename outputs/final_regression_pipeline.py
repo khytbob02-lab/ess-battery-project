@@ -607,6 +607,9 @@ def main():
 
     stb = stab[["final_valid_mape", "final_batch2_mape", "final_batch3_mape"]]
     in2, in3 = seg("Batch 2", "학습 범위 안", "MAPE"), seg("Batch 3", "학습 범위 안", "MAPE")
+    _b3hi = by_range[(by_range["batch"] == "Batch 3") & (by_range["구간"] == "학습 최댓값 초과")]
+    b3hi_n = int(_b3hi["셀수"].iloc[0]) if len(_b3hi) else 0
+    b3hi_m = float(_b3hi["MAPE"].iloc[0]) if len(_b3hi) else float("nan")
     perf_short = (
         md_table(reg) + "\n\n**Batch 3 추가 검증**\n\n" + md_table(b3_rep.iloc[6:].reset_index(drop=True)) + "\n\n"
         f"- Gap (Train-Valid) {va - tr:+.2f}%p : Valid가 {len(valid)}셀이라 값 자체는 흔들린다. 분할 {n_rep}번 평균으로도 Train {sb['rep_cv_mean']*100:.2f}%, "
@@ -615,6 +618,8 @@ def main():
         f"학습 수명 범위 안의 셀만 보면 Batch 2 MAPE는 {in2:.1f}%로 원논문 9.1%와 비슷하다.\n"
         f"- Gap (Batch2-Batch3) {te2 - te3:+.2f}%p : 학습 범위 안의 셀은 Batch 2 {in2:.1f}%, Batch 3 {in3:.1f}%로 비슷하다. 차이는 Feature가 한 배치에 맞춰져서라기보다, "
         f"학습 범위를 벗어난 셀이 Batch 2({out2}/{len(b2)})에 더 많기 때문이다.\n"
+        f"- Gap (Target-Test, Batch 3) {te3 - TARGET_MAPE:+.2f}%p : Batch 3도 학습 범위 안 셀은 {in3:.1f}%로 원논문과 비슷하다. "
+        f"오차는 학습 최댓값보다 긴 {int(b3hi_n)}셀(MAPE {b3hi_m:.1f}%)에서 나오며, 이 셀들은 짧게 예측된다.\n"
         f"- 분할을 {n_rep}번 바꿔 다시 학습해도 Batch 2 Test는 {stb['final_batch2_mape'].min():.1f}~{stb['final_batch2_mape'].max():.1f}%, "
         f"Batch 3 Test는 {stb['final_batch3_mape'].min():.1f}~{stb['final_batch3_mape'].max():.1f}% 안에 있었다.\n"
         f"- 원논문에서 노이즈로 제외한 Batch 3 셀 4개를 빼면 Batch 3 MAPE는 {te3c:.2f}%다.\n"

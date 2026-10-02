@@ -32,9 +32,14 @@
 ```bash
 git clone https://github.com/khytbob02-lab/ess-battery-project.git ess-battery-project
 cd ess-battery-project
+
+python3 -m venv .venv          # 가상환경 생성 (Python 3.10 이상)
+source .venv/bin/activate      # 가상환경 활성화 (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
+
 python outputs/regression_pipeline.py
 ```
+검증 환경 : Python 3.12, numpy 2.4, pandas 3.0, scikit-learn 1.8
 실행하면 `outputs/`에 결과가 저장되고, 이 README와 DAY2_README의 성능 수치가 함께 갱신된다.
 
 
@@ -43,10 +48,12 @@ python outputs/regression_pipeline.py
 - Cycle Life 분포
 	- 평균(중앙값) : Batch 1 788(773), Batch 2 566(472), Batch 3 1,060(1,006) Cycle
 	- 단수명(<500) 비율 : Batch 1 0%, Batch 2 72%, Batch 3 0%
+	- 이상치(IQR 기준) : Batch 1에는 이상치가 없다. Batch 2의 이상치 9개와 Batch 3의 이상치 3개는 모두 `newstructure` 셀이고, 짧은 쪽이 아니라 유독 긴 쪽이다.
+	- 가장 짧은 셀 : Batch 2의 392~416 Cycle 셀들이다. Batch 2에서는 짧은 수명이 예외가 아니라 일반적인 경우다. Batch 1에서 가장 짧은 4개 셀은 80%까지 평균 충전속도가 5.1C로 나머지(4.5C)보다 빨랐고 1단계 C-rate도 6.7C vs 6.0C로 높았다. 온도(32.8°C vs 33.1°C)와 내부저항은 차이가 없어, 짧은 수명은 고속 충전과 더 관련이 있다.
 	- 핵심 발견 : Batch 2에 단수명 셀이 몰려 있어 Batch 1과 분포가 가장 다르다. Target은 log로 변환하고 Batch 2는 독립 Test로 둔다.
 
 - 열화 곡선 분석
-	- Cycle 10~100의 용량 기울기는 단수명(<550)과 장수명(>1,000) 모두 0에 가깝다. EOL 직전 100 Cycle에서는 단수명 −1.55, 장수명 −0.75 mAh/cycle로 단수명이 약 2배 빠르게 떨어진다.
+	- 열화 속도는 일정하지 않고 가속된다. Cycle 10~100의 용량 기울기는 단수명(<550)과 장수명(>1,000) 모두 0에 가깝다. EOL 직전 100 Cycle에서는 단수명 −1.55, 장수명 −0.75 mAh/cycle로 빨라지고, 단수명이 약 2배 빠르게 떨어진다.
 	- Knee 중앙값은 Batch 1 550, Batch 2 339, Batch 3 764 Cycle(수명의 71~76% 지점)이고, 100 Cycle 이전에 Knee가 온 셀은 없다.
 	- 핵심 발견 : 초기 100 Cycle의 용량 값만으로는 수명을 구분할 수 없다. 용량 곡선의 모양 변화를 봐야 한다.
 
@@ -58,6 +65,7 @@ python outputs/regression_pipeline.py
 - 충전 속도(C-rate)와 수명의 관계
 	- Batch 1 프로토콜별 평균 수명은 4.4C(80%)-4.4C 1,074, 5.4C(40%)-3.6C 1,054 Cycle이 가장 길고, 5.4C(80%)-5.4C 547, 8C(35%)-3.6C 608 Cycle이 가장 짧다.
 	- 같은 8C에서도 고속 구간이 15% → 25% → 35%로 길어지면 수명이 1,009 → 677 → 608 Cycle로 줄었다(프로토콜당 1~2셀).
+	- 충전 전류 패턴과 초기 열화 속도(Cycle 100까지 용량 감소 기울기)의 상관은 2단계 C-rate 0.25, 평균 충전 전류 0.25, C-rate 변화량 0.20으로 약한 양의 상관이다. 1단계 C-rate는 −0.12로 반대 방향이다. 처음에 얼마나 세게 충전하는지보다 충전 전체의 평균 전류가 클수록 초기 열화가 조금 빠르지만, 상관이 약해 열화 속도만으로 수명을 설명하기는 어렵다.
 	- 핵심 발견 : 80%까지 평균 충전속도(Cavg_80)와 log 수명의 상관은 Batch 1에서 −0.59지만 전체 배치에서는 −0.15다. 배치 차이가 섞여 있어 충전 조건만으로 수명을 설명하기 어렵다.
 
 - 추가 확인
@@ -129,6 +137,7 @@ Permutation Importance(Batch 1 안에서 계산)로 보면 log_delta_var를 섞�
 - Gap (Train-Valid) -2.39%p : Valid가 8셀이라 값 자체는 흔들린다. 분할 20번 평균으로도 Train 10.58%, Valid 9.63%로 차이가 작아 과적합은 크지 않다.
 - Gap (Valid-Test) +20.83%p, Gap (Target-Test) +19.86%p : Batch 2 성능 저하는 대부분 학습 범위보다 수명이 짧은 셀에서 나온다(오류 분석 참고). 학습 수명 범위 안의 셀만 보면 Batch 2 MAPE는 8.9%로 원논문 9.1%와 비슷하다.
 - Gap (Batch2-Batch3) +8.00%p : 학습 범위 안의 셀은 Batch 2 8.9%, Batch 3 9.4%로 비슷하다. 차이는 Feature가 한 배치에 맞춰져서라기보다, 학습 범위를 벗어난 셀이 Batch 2(32/39)에 더 많기 때문이다.
+- Gap (Target-Test, Batch 3) +11.85%p : Batch 3도 학습 범위 안 셀은 9.4%로 원논문과 비슷하다. 오차는 학습 최댓값보다 긴 17셀(MAPE 39.3%)에서 나오며, 이 셀들은 짧게 예측된다.
 - 분할을 20번 바꿔 다시 학습해도 Batch 2 Test는 22.2~43.1%, Batch 3 Test는 17.7~21.8% 안에 있었다.
 - 원논문에서 노이즈로 제외한 Batch 3 셀 4개를 빼면 Batch 3 MAPE는 19.30%다.
 - ΔQ는 같은 셀의 Cycle 100과 10을 빼서 만들기 때문에, 배치별 Qdlin 시작 위치 차이는 상쇄된다.
