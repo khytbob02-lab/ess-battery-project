@@ -1,0 +1,16 @@
+model,split,batch,cell_id,policy_group,actual_cycle_life,predicted_cycle_life,ape_pct,direction
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,6,3.6C(9%)-5C,393.0,669.046107927394,70.2407399306346,과대예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,38,5C(67%)-4C,1935.0,807.5854528112737,58.26431768417191,과소예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,7,4.8C(80%)-4.8C,1836.0,809.4966781263479,55.909766986582355,과소예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,45,4.8C(80%)-4.8C,1801.0,831.3984536645428,53.836843216849374,과소예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,16,4.8C(80%)-4.8C,1638.0,784.7010911602013,52.09395047862019,과소예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,15,3.6C(9%)-5C,396.0,597.4074365203548,50.860463767766376,과대예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,18,5.2C(50%)-4.25C,449.0,671.6389242003644,49.58550650342191,과대예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,19,6C(60%)-3C,392.0,582.1069966337952,48.49668281474368,과대예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,37,4.8C(80%)-4.8C,1390.0,740.8864370058942,46.698817481590346,과소예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,42,4.8C(80%)-4.8C,1642.0,879.7297616741797,46.423278826176634,과소예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,21,6C(60%)-3C,408.0,588.1205314290943,44.147189075758405,과대예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,17,5.3C(54%)-4C,1315.0,740.8864370058942,43.658826083201966,과소예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,31,5.6C(26%)-4.5C,425.0,608.3447621185405,43.13994402789189,과대예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,30,5.6C(26%)-4.5C,412.0,587.7312545374649,42.65321712074391,과대예측
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,2,5.6C(19%)-4.6C,1267.0,776.9371140914427,38.67899652001242,과소예측

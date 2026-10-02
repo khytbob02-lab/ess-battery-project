@@ -1,0 +1,4 @@
+batch,valid_cells,knee_cycle_median,knee_life_ratio_median,knee_before_100_count
+Batch 1,36,550.0,0.7091431556948798,0
+Batch 2,39,339.0,0.7276995305164319,0
+Batch 3,44,764.5,0.7573017003436094,0

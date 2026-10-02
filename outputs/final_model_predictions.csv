@@ -1,0 +1,638 @@
+model,split,batch,cell_id,policy_group,actual_cycle_life,predicted_cycle_life
+Dummy 평균 기준선,Batch1_valid,Batch 1,5,4.4C(80%)-4.4C,1074.0,758.5836816946652
+Dummy 평균 기준선,Batch1_valid,Batch 1,6,4.8C(80%)-4.8C,636.0,758.5836816946652
+Dummy 평균 기준선,Batch1_valid,Batch 1,7,4.8C(80%)-4.8C,870.0,758.5836816946652
+Dummy 평균 기준선,Batch1_valid,Batch 1,23,6C(30%)-3.6C,1014.0,758.5836816946652
+Dummy 평균 기준선,Batch1_valid,Batch 1,38,7C(40%)-3.6C,617.0,758.5836816946652
+Dummy 평균 기준선,Batch1_valid,Batch 1,39,7C(40%)-3.6C,625.0,758.5836816946652
+Dummy 평균 기준선,Batch1_valid,Batch 1,40,8C(15%)-3.6C,966.0,758.5836816946652
+Dummy 평균 기준선,Batch1_valid,Batch 1,41,8C(15%)-3.6C,1051.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,0,5.2C(58%)-4C,477.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,1,5.6C(26%)-4.5C,491.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,2,5.2C(50%)-4.25C,424.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,3,4.65C(44%)-5C,499.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,4,4.65C(69%)-6C,444.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,5,3.6C(30%)-6C,416.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,6,3.6C(9%)-5C,393.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,7,4.8C(80%)-4.8C,777.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,8,5.2C(58%)-4C,904.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,9,5.6C(26%)-4.5C,791.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,10,4.8C(80%)-4.8C,492.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,11,5.2C(50%)-4.25C,449.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,12,4.65C(44%)-5C,466.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,13,4.65C(69%)-6C,460.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,14,3.6C(30%)-6C,426.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,15,3.6C(9%)-5C,396.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,16,4.8C(80%)-4.8C,472.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,17,5.6C(26%)-4.5C,471.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,18,5.2C(50%)-4.25C,449.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,19,6C(60%)-3C,392.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,20,5.2C(58%)-4C,489.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,21,6C(60%)-3C,408.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,24,4.8C(80%)-4.8C,514.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,25,5.2C(58%)-4C,493.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,26,5.6C(26%)-4.5C,450.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,27,5.2C(50%)-4.25C,474.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,28,4.8C(80%)-4.8C,437.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,29,5.2C(58%)-4C,452.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,30,5.6C(26%)-4.5C,412.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,31,5.6C(26%)-4.5C,425.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,32,4.8C(80%)-4.8C,809.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,33,5.2C(58%)-4C,1140.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,34,5.6C(26%)-4.5C,1186.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,41,5.6C(26%)-4.5C,442.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,42,5.2C(50%)-4.25C,474.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,43,4.8C(80%)-4.8C,1029.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,44,5.2C(58%)-4C,841.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,45,5.6C(26%)-4.5C,997.0,758.5836816946652
+Dummy 평균 기준선,Batch2_test,Batch 2,46,4.8C(80%)-4.8C,503.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,0,5C(67%)-4C,1009.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,1,5.3C(54%)-4C,1063.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,2,5.6C(19%)-4.6C,1267.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,3,5.6C(36%)-4.3C,1115.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,4,5.6C(19%)-4.6C,1048.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,5,5.6C(36%)-4.3C,828.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,6,3.7C(31%)-5.9C,667.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,7,4.8C(80%)-4.8C,1836.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,8,5C(67%)-4C,828.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,9,5.3C(54%)-4C,1039.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,10,4.8C(80%)-4.8C,1078.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,11,5.6C(19%)-4.6C,817.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,12,5.6C(36%)-4.3C,932.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,13,5.6C(19%)-4.6C,816.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,14,5.6C(36%)-4.3C,858.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,15,5.9C(15%)-4.6C,876.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,16,4.8C(80%)-4.8C,1638.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,17,5.3C(54%)-4C,1315.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,18,5.6C(19%)-4.6C,1146.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,19,5.6C(36%)-4.3C,1155.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,20,5C(67%)-4C,813.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,21,3.7C(31%)-5.9C,772.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,22,5.9C(60%)-3.1C,1002.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,24,5C(67%)-4C,825.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,25,5.3C(54%)-4C,989.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,26,5.6C(19%)-4.6C,1028.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,27,5.6C(36%)-4.3C,850.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,28,3.7C(31%)-5.9C,541.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,29,5.9C(15%)-4.6C,858.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,30,5.3C(54%)-4C,935.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,31,5.9C(60%)-3.1C,731.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,33,5C(67%)-4C,1284.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,34,5.3C(54%)-4C,1158.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,35,5.6C(19%)-4.6C,1093.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,36,5.6C(36%)-4.3C,923.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,37,4.8C(80%)-4.8C,1390.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,38,5C(67%)-4C,1935.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,39,5.3C(54%)-4C,1156.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,40,5.6C(19%)-4.6C,796.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,41,5.6C(36%)-4.3C,786.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,42,4.8C(80%)-4.8C,1642.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,43,5C(67%)-4C,1046.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,44,5.3C(54%)-4C,940.0,758.5836816946652
+Dummy 평균 기준선,Batch3_test,Batch 3,45,4.8C(80%)-4.8C,1801.0,758.5836816946652
+Ridge (DAY1 전략 세트(10)),Batch1_valid,Batch 1,5,4.4C(80%)-4.4C,1074.0,947.4691202831139
+Ridge (DAY1 전략 세트(10)),Batch1_valid,Batch 1,6,4.8C(80%)-4.8C,636.0,796.7777308043076
+Ridge (DAY1 전략 세트(10)),Batch1_valid,Batch 1,7,4.8C(80%)-4.8C,870.0,871.5084481173623
+Ridge (DAY1 전략 세트(10)),Batch1_valid,Batch 1,23,6C(30%)-3.6C,1014.0,871.5230699598613
+Ridge (DAY1 전략 세트(10)),Batch1_valid,Batch 1,38,7C(40%)-3.6C,617.0,628.1392232363067
+Ridge (DAY1 전략 세트(10)),Batch1_valid,Batch 1,39,7C(40%)-3.6C,625.0,686.3884415726698
+Ridge (DAY1 전략 세트(10)),Batch1_valid,Batch 1,40,8C(15%)-3.6C,966.0,817.7451564464924
+Ridge (DAY1 전략 세트(10)),Batch1_valid,Batch 1,41,8C(15%)-3.6C,1051.0,806.6419410404012
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,0,5.2C(58%)-4C,477.0,859.1804606052755
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,1,5.6C(26%)-4.5C,491.0,752.2665582243412
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,2,5.2C(50%)-4.25C,424.0,676.5690853238291
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,3,4.65C(44%)-5C,499.0,832.0888201005862
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,4,4.65C(69%)-6C,444.0,665.0575009326942
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,5,3.6C(30%)-6C,416.0,632.4688686010471
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,6,3.6C(9%)-5C,393.0,850.3308245636609
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,7,4.8C(80%)-4.8C,777.0,957.7336900342751
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,8,5.2C(58%)-4C,904.0,879.8964332553444
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,9,5.6C(26%)-4.5C,791.0,945.1746091798944
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,10,4.8C(80%)-4.8C,492.0,899.377469062557
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,11,5.2C(50%)-4.25C,449.0,859.0645303965471
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,12,4.65C(44%)-5C,466.0,795.2591081535551
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,13,4.65C(69%)-6C,460.0,748.0151296409256
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,14,3.6C(30%)-6C,426.0,667.1856016806922
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,15,3.6C(9%)-5C,396.0,786.0301518018978
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,16,4.8C(80%)-4.8C,472.0,805.7229853715963
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,17,5.6C(26%)-4.5C,471.0,779.704856753025
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,18,5.2C(50%)-4.25C,449.0,804.6825750481529
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,19,6C(60%)-3C,392.0,723.6522619069985
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,20,5.2C(58%)-4C,489.0,818.5689006914224
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,21,6C(60%)-3C,408.0,758.6341532784876
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,24,4.8C(80%)-4.8C,514.0,867.3114822112426
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,25,5.2C(58%)-4C,493.0,859.6377443256519
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,26,5.6C(26%)-4.5C,450.0,764.8357263843674
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,27,5.2C(50%)-4.25C,474.0,851.918547089996
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,28,4.8C(80%)-4.8C,437.0,822.5411142797191
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,29,5.2C(58%)-4C,452.0,920.488017336856
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,30,5.6C(26%)-4.5C,412.0,686.6551077267337
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,31,5.6C(26%)-4.5C,425.0,757.5090090769147
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,32,4.8C(80%)-4.8C,809.0,872.4652037011163
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,33,5.2C(58%)-4C,1140.0,775.4170798523081
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,34,5.6C(26%)-4.5C,1186.0,786.9657928622829
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,41,5.6C(26%)-4.5C,442.0,763.5440589177896
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,42,5.2C(50%)-4.25C,474.0,879.9615162807169
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,43,4.8C(80%)-4.8C,1029.0,978.4322769199492
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,44,5.2C(58%)-4C,841.0,985.3051361192441
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,45,5.6C(26%)-4.5C,997.0,909.9319668439226
+Ridge (DAY1 전략 세트(10)),Batch2_test,Batch 2,46,4.8C(80%)-4.8C,503.0,835.081913293257
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,0,5C(67%)-4C,1009.0,822.0449160087753
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,1,5.3C(54%)-4C,1063.0,795.5209459113246
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,2,5.6C(19%)-4.6C,1267.0,835.5223531065884
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,3,5.6C(36%)-4.3C,1115.0,727.6341916204068
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,4,5.6C(19%)-4.6C,1048.0,789.6412174999863
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,5,5.6C(36%)-4.3C,828.0,684.5013127152235
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,6,3.7C(31%)-5.9C,667.0,570.5073225504956
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,7,4.8C(80%)-4.8C,1836.0,873.2399890484215
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,8,5C(67%)-4C,828.0,780.7994877440481
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,9,5.3C(54%)-4C,1039.0,778.596851168678
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,10,4.8C(80%)-4.8C,1078.0,825.4037297888459
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,11,5.6C(19%)-4.6C,817.0,711.2145957599741
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,12,5.6C(36%)-4.3C,932.0,766.6938676841129
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,13,5.6C(19%)-4.6C,816.0,748.3512146186984
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,14,5.6C(36%)-4.3C,858.0,783.067422270144
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,15,5.9C(15%)-4.6C,876.0,723.8642789063043
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,16,4.8C(80%)-4.8C,1638.0,880.3750022437667
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,17,5.3C(54%)-4C,1315.0,825.3098971137337
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,18,5.6C(19%)-4.6C,1146.0,763.2372626422476
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,19,5.6C(36%)-4.3C,1155.0,776.2591215604116
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,20,5C(67%)-4C,813.0,770.6493088616601
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,21,3.7C(31%)-5.9C,772.0,643.1126919293381
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,22,5.9C(60%)-3.1C,1002.0,697.1951521620075
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,24,5C(67%)-4C,825.0,723.8528248106273
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,25,5.3C(54%)-4C,989.0,770.3705312624908
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,26,5.6C(19%)-4.6C,1028.0,807.5379419372481
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,27,5.6C(36%)-4.3C,850.0,734.0489226336493
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,28,3.7C(31%)-5.9C,541.0,529.1113655812093
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,29,5.9C(15%)-4.6C,858.0,742.4812242376479
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,30,5.3C(54%)-4C,935.0,792.8304227008024
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,31,5.9C(60%)-3.1C,731.0,716.8110003091037
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,33,5C(67%)-4C,1284.0,808.9132012398601
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,34,5.3C(54%)-4C,1158.0,778.3200348025472
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,35,5.6C(19%)-4.6C,1093.0,748.8346748647798
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,36,5.6C(36%)-4.3C,923.0,728.9685267589495
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,37,4.8C(80%)-4.8C,1390.0,878.187128750957
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,38,5C(67%)-4C,1935.0,851.4120536625778
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,39,5.3C(54%)-4C,1156.0,763.3100167473498
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,40,5.6C(19%)-4.6C,796.0,767.1212080834775
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,41,5.6C(36%)-4.3C,786.0,760.4366569409074
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,42,4.8C(80%)-4.8C,1642.0,854.0731826674574
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,43,5C(67%)-4C,1046.0,857.2257687385911
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,44,5.3C(54%)-4C,940.0,808.2671845336544
+Ridge (DAY1 전략 세트(10)),Batch3_test,Batch 3,45,4.8C(80%)-4.8C,1801.0,891.5417853322673
+Random Forest (DAY1 전략 세트(10)),Batch1_valid,Batch 1,5,4.4C(80%)-4.4C,1074.0,864.0505986328878
+Random Forest (DAY1 전략 세트(10)),Batch1_valid,Batch 1,6,4.8C(80%)-4.8C,636.0,755.2292492642166
+Random Forest (DAY1 전략 세트(10)),Batch1_valid,Batch 1,7,4.8C(80%)-4.8C,870.0,856.6557065435245
+Random Forest (DAY1 전략 세트(10)),Batch1_valid,Batch 1,23,6C(30%)-3.6C,1014.0,909.6153285091734
+Random Forest (DAY1 전략 세트(10)),Batch1_valid,Batch 1,38,7C(40%)-3.6C,617.0,649.9758282503883
+Random Forest (DAY1 전략 세트(10)),Batch1_valid,Batch 1,39,7C(40%)-3.6C,625.0,653.553722685003
+Random Forest (DAY1 전략 세트(10)),Batch1_valid,Batch 1,40,8C(15%)-3.6C,966.0,851.0284240976928
+Random Forest (DAY1 전략 세트(10)),Batch1_valid,Batch 1,41,8C(15%)-3.6C,1051.0,871.6313147663785
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,0,5.2C(58%)-4C,477.0,665.1615535998732
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,1,5.6C(26%)-4.5C,491.0,619.0957367017355
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,2,5.2C(50%)-4.25C,424.0,619.3740010727023
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,3,4.65C(44%)-5C,499.0,655.9461880346456
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,4,4.65C(69%)-6C,444.0,607.0296790192176
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,5,3.6C(30%)-6C,416.0,600.1106111393561
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,6,3.6C(9%)-5C,393.0,700.4894379848929
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,7,4.8C(80%)-4.8C,777.0,833.5304193058175
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,8,5.2C(58%)-4C,904.0,822.1917303271025
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,9,5.6C(26%)-4.5C,791.0,846.5928590754479
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,10,4.8C(80%)-4.8C,492.0,655.0211228457257
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,11,5.2C(50%)-4.25C,449.0,664.7931911862838
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,12,4.65C(44%)-5C,466.0,655.3517928772678
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,13,4.65C(69%)-6C,460.0,616.7050598197303
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,14,3.6C(30%)-6C,426.0,602.136362247256
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,15,3.6C(9%)-5C,396.0,644.1421445028462
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,16,4.8C(80%)-4.8C,472.0,620.4832562961848
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,17,5.6C(26%)-4.5C,471.0,657.6199415823891
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,18,5.2C(50%)-4.25C,449.0,712.1653329168445
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,19,6C(60%)-3C,392.0,658.4728060455636
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,20,5.2C(58%)-4C,489.0,668.6909258024297
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,21,6C(60%)-3C,408.0,661.4357059924544
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,24,4.8C(80%)-4.8C,514.0,729.9409772424702
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,25,5.2C(58%)-4C,493.0,710.4375022239077
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,26,5.6C(26%)-4.5C,450.0,653.1581045462157
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,27,5.2C(50%)-4.25C,474.0,666.1554108523866
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,28,4.8C(80%)-4.8C,437.0,655.9522219643566
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,29,5.2C(58%)-4C,452.0,664.9665006661216
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,30,5.6C(26%)-4.5C,412.0,622.578502867842
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,31,5.6C(26%)-4.5C,425.0,661.7238389759992
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,32,4.8C(80%)-4.8C,809.0,795.9215625125757
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,33,5.2C(58%)-4C,1140.0,775.4782758502664
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,34,5.6C(26%)-4.5C,1186.0,774.267583412076
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,41,5.6C(26%)-4.5C,442.0,661.5942863522936
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,42,5.2C(50%)-4.25C,474.0,662.0687625375073
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,43,4.8C(80%)-4.8C,1029.0,807.0520263638418
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,44,5.2C(58%)-4C,841.0,829.3386738385992
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,45,5.6C(26%)-4.5C,997.0,810.8647458692478
+Random Forest (DAY1 전략 세트(10)),Batch2_test,Batch 2,46,4.8C(80%)-4.8C,503.0,627.516917695902
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,0,5C(67%)-4C,1009.0,833.1323630360511
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,1,5.3C(54%)-4C,1063.0,830.3455827043143
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,2,5.6C(19%)-4.6C,1267.0,794.8455566315812
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,3,5.6C(36%)-4.3C,1115.0,828.829324804959
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,4,5.6C(19%)-4.6C,1048.0,845.5437607608688
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,5,5.6C(36%)-4.3C,828.0,834.7608058404495
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,6,3.7C(31%)-5.9C,667.0,630.6128085096375
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,7,4.8C(80%)-4.8C,1836.0,822.5972823653367
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,8,5C(67%)-4C,828.0,840.302286522958
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,9,5.3C(54%)-4C,1039.0,847.3483087323314
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,10,4.8C(80%)-4.8C,1078.0,822.3864655593876
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,11,5.6C(19%)-4.6C,817.0,808.7063717492022
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,12,5.6C(36%)-4.3C,932.0,850.6350491026532
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,13,5.6C(19%)-4.6C,816.0,836.083394227762
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,14,5.6C(36%)-4.3C,858.0,846.115326813547
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,15,5.9C(15%)-4.6C,876.0,822.6065716713936
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,16,4.8C(80%)-4.8C,1638.0,822.3656287590976
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,17,5.3C(54%)-4C,1315.0,810.3171860895493
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,18,5.6C(19%)-4.6C,1146.0,787.7632053398734
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,19,5.6C(36%)-4.3C,1155.0,799.2105659648419
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,20,5C(67%)-4C,813.0,840.4547788161923
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,21,3.7C(31%)-5.9C,772.0,655.6786208981325
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,22,5.9C(60%)-3.1C,1002.0,827.6265551856336
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,24,5C(67%)-4C,825.0,836.9330343437441
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,25,5.3C(54%)-4C,989.0,842.3603232921326
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,26,5.6C(19%)-4.6C,1028.0,847.0810734886464
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,27,5.6C(36%)-4.3C,850.0,838.2294694526637
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,28,3.7C(31%)-5.9C,541.0,596.6530723447046
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,29,5.9C(15%)-4.6C,858.0,840.431708662874
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,30,5.3C(54%)-4C,935.0,848.3732721561898
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,31,5.9C(60%)-3.1C,731.0,825.3691931238568
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,33,5C(67%)-4C,1284.0,829.3263467510538
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,34,5.3C(54%)-4C,1158.0,821.8860547994746
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,35,5.6C(19%)-4.6C,1093.0,801.855904794288
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,36,5.6C(36%)-4.3C,923.0,799.198139668832
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,37,4.8C(80%)-4.8C,1390.0,772.6955973655204
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,38,5C(67%)-4C,1935.0,846.7643678077079
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,39,5.3C(54%)-4C,1156.0,839.2856566650025
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,40,5.6C(19%)-4.6C,796.0,836.1159773602719
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,41,5.6C(36%)-4.3C,786.0,841.5389290003673
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,42,4.8C(80%)-4.8C,1642.0,845.1192042972858
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,43,5C(67%)-4C,1046.0,861.4942214717016
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,44,5.3C(54%)-4C,940.0,852.8330043973323
+Random Forest (DAY1 전략 세트(10)),Batch3_test,Batch 3,45,4.8C(80%)-4.8C,1801.0,834.7686179335177
+HistGradientBoosting (DAY1 전략 세트(10)),Batch1_valid,Batch 1,5,4.4C(80%)-4.4C,1074.0,881.1882081173621
+HistGradientBoosting (DAY1 전략 세트(10)),Batch1_valid,Batch 1,6,4.8C(80%)-4.8C,636.0,749.6885492313827
+HistGradientBoosting (DAY1 전략 세트(10)),Batch1_valid,Batch 1,7,4.8C(80%)-4.8C,870.0,888.8977077342843
+HistGradientBoosting (DAY1 전략 세트(10)),Batch1_valid,Batch 1,23,6C(30%)-3.6C,1014.0,965.9948674489709
+HistGradientBoosting (DAY1 전략 세트(10)),Batch1_valid,Batch 1,38,7C(40%)-3.6C,617.0,624.498744186705
+HistGradientBoosting (DAY1 전략 세트(10)),Batch1_valid,Batch 1,39,7C(40%)-3.6C,625.0,634.5713743272303
+HistGradientBoosting (DAY1 전략 세트(10)),Batch1_valid,Batch 1,40,8C(15%)-3.6C,966.0,871.0469832941003
+HistGradientBoosting (DAY1 전략 세트(10)),Batch1_valid,Batch 1,41,8C(15%)-3.6C,1051.0,949.4158013225513
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,0,5.2C(58%)-4C,477.0,596.2412835880436
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,1,5.6C(26%)-4.5C,491.0,587.7312545374649
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,2,5.2C(50%)-4.25C,424.0,582.407344713178
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,3,4.65C(44%)-5C,499.0,573.0801871234521
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,4,4.65C(69%)-6C,444.0,582.8063208606922
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,5,3.6C(30%)-6C,416.0,556.0939423460975
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,6,3.6C(9%)-5C,393.0,669.046107927394
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,7,4.8C(80%)-4.8C,777.0,768.8791378958826
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,8,5.2C(58%)-4C,904.0,805.5552402069297
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,9,5.6C(26%)-4.5C,791.0,782.9093771643358
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,10,4.8C(80%)-4.8C,492.0,596.2412835880436
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,11,5.2C(50%)-4.25C,449.0,600.0137509144913
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,12,4.65C(44%)-5C,466.0,584.0768805979317
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,13,4.65C(69%)-6C,460.0,582.3423049581436
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,14,3.6C(30%)-6C,426.0,576.6744378413407
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,15,3.6C(9%)-5C,396.0,597.4074365203548
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,16,4.8C(80%)-4.8C,472.0,599.0189812496603
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,17,5.6C(26%)-4.5C,471.0,600.2002816644051
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,18,5.2C(50%)-4.25C,449.0,671.6389242003644
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,19,6C(60%)-3C,392.0,582.1069966337952
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,20,5.2C(58%)-4C,489.0,588.8020848714191
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,21,6C(60%)-3C,408.0,588.1205314290943
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,24,4.8C(80%)-4.8C,514.0,690.3428078831056
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,25,5.2C(58%)-4C,493.0,675.3333577229154
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,26,5.6C(26%)-4.5C,450.0,595.3042352971933
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,27,5.2C(50%)-4.25C,474.0,600.0137509144913
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,28,4.8C(80%)-4.8C,437.0,588.0831587160245
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,29,5.2C(58%)-4C,452.0,581.7353018818429
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,30,5.6C(26%)-4.5C,412.0,587.7312545374649
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,31,5.6C(26%)-4.5C,425.0,608.3447621185405
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,32,4.8C(80%)-4.8C,809.0,767.6262114597224
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,33,5.2C(58%)-4C,1140.0,749.4488553178862
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,34,5.6C(26%)-4.5C,1186.0,728.1404250634416
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,41,5.6C(26%)-4.5C,442.0,596.6777365988571
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,42,5.2C(50%)-4.25C,474.0,584.0147216234684
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,43,4.8C(80%)-4.8C,1029.0,804.7104261943546
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,44,5.2C(58%)-4C,841.0,865.5227206458491
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,45,5.6C(26%)-4.5C,997.0,804.7104261943546
+HistGradientBoosting (DAY1 전략 세트(10)),Batch2_test,Batch 2,46,4.8C(80%)-4.8C,503.0,577.573237068376
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,0,5C(67%)-4C,1009.0,817.0415932068204
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,1,5.3C(54%)-4C,1063.0,784.7406691747149
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,2,5.6C(19%)-4.6C,1267.0,776.9371140914427
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,3,5.6C(36%)-4.3C,1115.0,783.5448251731281
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,4,5.6C(19%)-4.6C,1048.0,826.7162294758906
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,5,5.6C(36%)-4.3C,828.0,786.7893072878378
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,6,3.7C(31%)-5.9C,667.0,624.0748574169507
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,7,4.8C(80%)-4.8C,1836.0,809.4966781263479
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,8,5C(67%)-4C,828.0,840.9967010895643
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,9,5.3C(54%)-4C,1039.0,848.9355632300617
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,10,4.8C(80%)-4.8C,1078.0,808.1230396965063
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,11,5.6C(19%)-4.6C,817.0,761.1734073242118
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,12,5.6C(36%)-4.3C,932.0,822.167561885244
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,13,5.6C(19%)-4.6C,816.0,820.211379619875
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,14,5.6C(36%)-4.3C,858.0,855.7323275815501
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,15,5.9C(15%)-4.6C,876.0,788.3392570684542
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,16,4.8C(80%)-4.8C,1638.0,784.7010911602013
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,17,5.3C(54%)-4C,1315.0,740.8864370058942
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,18,5.6C(19%)-4.6C,1146.0,777.1763847899023
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,19,5.6C(36%)-4.3C,1155.0,792.6531922484352
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,20,5C(67%)-4C,813.0,803.8391593914668
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,21,3.7C(31%)-5.9C,772.0,617.5835765271321
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,22,5.9C(60%)-3.1C,1002.0,778.6473607641772
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,24,5C(67%)-4C,825.0,819.2283296365464
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,25,5.3C(54%)-4C,989.0,820.211379619875
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,26,5.6C(19%)-4.6C,1028.0,846.3408734773186
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,27,5.6C(36%)-4.3C,850.0,820.211379619875
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,28,3.7C(31%)-5.9C,541.0,546.9092988861096
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,29,5.9C(15%)-4.6C,858.0,846.4765089429026
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,30,5.3C(54%)-4C,935.0,849.1102176529088
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,31,5.9C(60%)-3.1C,731.0,776.1814663928634
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,33,5C(67%)-4C,1284.0,798.7128791076135
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,34,5.3C(54%)-4C,1158.0,777.1763847899023
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,35,5.6C(19%)-4.6C,1093.0,783.5448251731281
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,36,5.6C(36%)-4.3C,923.0,777.1763847899023
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,37,4.8C(80%)-4.8C,1390.0,740.8864370058942
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,38,5C(67%)-4C,1935.0,807.5854528112737
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,39,5.3C(54%)-4C,1156.0,820.211379619875
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,40,5.6C(19%)-4.6C,796.0,820.211379619875
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,41,5.6C(36%)-4.3C,786.0,852.1756494184514
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,42,4.8C(80%)-4.8C,1642.0,879.7297616741797
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,43,5C(67%)-4C,1046.0,853.6673395681254
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,44,5.3C(54%)-4C,940.0,871.636842060507
+HistGradientBoosting (DAY1 전략 세트(10)),Batch3_test,Batch 3,45,4.8C(80%)-4.8C,1801.0,831.3984536645428
+Ridge (전체 세트(18)),Batch1_valid,Batch 1,5,4.4C(80%)-4.4C,1074.0,972.0488987135059
+Ridge (전체 세트(18)),Batch1_valid,Batch 1,6,4.8C(80%)-4.8C,636.0,815.224300477883
+Ridge (전체 세트(18)),Batch1_valid,Batch 1,7,4.8C(80%)-4.8C,870.0,894.0294029148122
+Ridge (전체 세트(18)),Batch1_valid,Batch 1,23,6C(30%)-3.6C,1014.0,890.5675837552965
+Ridge (전체 세트(18)),Batch1_valid,Batch 1,38,7C(40%)-3.6C,617.0,611.7931151519778
+Ridge (전체 세트(18)),Batch1_valid,Batch 1,39,7C(40%)-3.6C,625.0,672.0659765876412
+Ridge (전체 세트(18)),Batch1_valid,Batch 1,40,8C(15%)-3.6C,966.0,828.6945669574171
+Ridge (전체 세트(18)),Batch1_valid,Batch 1,41,8C(15%)-3.6C,1051.0,815.9789371030881
+Ridge (전체 세트(18)),Batch2_test,Batch 2,0,5.2C(58%)-4C,477.0,856.4372684375311
+Ridge (전체 세트(18)),Batch2_test,Batch 2,1,5.6C(26%)-4.5C,491.0,784.145227036572
+Ridge (전체 세트(18)),Batch2_test,Batch 2,2,5.2C(50%)-4.25C,424.0,686.8728829769387
+Ridge (전체 세트(18)),Batch2_test,Batch 2,3,4.65C(44%)-5C,499.0,852.5103376895934
+Ridge (전체 세트(18)),Batch2_test,Batch 2,4,4.65C(69%)-6C,444.0,639.4631896280729
+Ridge (전체 세트(18)),Batch2_test,Batch 2,5,3.6C(30%)-6C,416.0,576.9851613464281
+Ridge (전체 세트(18)),Batch2_test,Batch 2,6,3.6C(9%)-5C,393.0,844.9369263544753
+Ridge (전체 세트(18)),Batch2_test,Batch 2,7,4.8C(80%)-4.8C,777.0,960.3141995957935
+Ridge (전체 세트(18)),Batch2_test,Batch 2,8,5.2C(58%)-4C,904.0,893.5049869461624
+Ridge (전체 세트(18)),Batch2_test,Batch 2,9,5.6C(26%)-4.5C,791.0,958.2379109888637
+Ridge (전체 세트(18)),Batch2_test,Batch 2,10,4.8C(80%)-4.8C,492.0,898.8286658487486
+Ridge (전체 세트(18)),Batch2_test,Batch 2,11,5.2C(50%)-4.25C,449.0,853.3120549799421
+Ridge (전체 세트(18)),Batch2_test,Batch 2,12,4.65C(44%)-5C,466.0,761.8544470375613
+Ridge (전체 세트(18)),Batch2_test,Batch 2,13,4.65C(69%)-6C,460.0,714.5903390753939
+Ridge (전체 세트(18)),Batch2_test,Batch 2,14,3.6C(30%)-6C,426.0,586.4811639982589
+Ridge (전체 세트(18)),Batch2_test,Batch 2,15,3.6C(9%)-5C,396.0,766.7277600258735
+Ridge (전체 세트(18)),Batch2_test,Batch 2,16,4.8C(80%)-4.8C,472.0,822.0707324090242
+Ridge (전체 세트(18)),Batch2_test,Batch 2,17,5.6C(26%)-4.5C,471.0,819.4842250943777
+Ridge (전체 세트(18)),Batch2_test,Batch 2,18,5.2C(50%)-4.25C,449.0,820.6756972816403
+Ridge (전체 세트(18)),Batch2_test,Batch 2,19,6C(60%)-3C,392.0,697.2553414708325
+Ridge (전체 세트(18)),Batch2_test,Batch 2,20,5.2C(58%)-4C,489.0,811.1507476901609
+Ridge (전체 세트(18)),Batch2_test,Batch 2,21,6C(60%)-3C,408.0,732.5942026340185
+Ridge (전체 세트(18)),Batch2_test,Batch 2,24,4.8C(80%)-4.8C,514.0,855.4608002146342
+Ridge (전체 세트(18)),Batch2_test,Batch 2,25,5.2C(58%)-4C,493.0,863.1318028146242
+Ridge (전체 세트(18)),Batch2_test,Batch 2,26,5.6C(26%)-4.5C,450.0,766.8891437499735
+Ridge (전체 세트(18)),Batch2_test,Batch 2,27,5.2C(50%)-4.25C,474.0,838.7210576966271
+Ridge (전체 세트(18)),Batch2_test,Batch 2,28,4.8C(80%)-4.8C,437.0,805.3345052348795
+Ridge (전체 세트(18)),Batch2_test,Batch 2,29,5.2C(58%)-4C,452.0,914.2931001264509
+Ridge (전체 세트(18)),Batch2_test,Batch 2,30,5.6C(26%)-4.5C,412.0,683.1371719976015
+Ridge (전체 세트(18)),Batch2_test,Batch 2,31,5.6C(26%)-4.5C,425.0,787.7361979146706
+Ridge (전체 세트(18)),Batch2_test,Batch 2,32,4.8C(80%)-4.8C,809.0,886.7667877902431
+Ridge (전체 세트(18)),Batch2_test,Batch 2,33,5.2C(58%)-4C,1140.0,772.8728652253836
+Ridge (전체 세트(18)),Batch2_test,Batch 2,34,5.6C(26%)-4.5C,1186.0,777.389715877357
+Ridge (전체 세트(18)),Batch2_test,Batch 2,41,5.6C(26%)-4.5C,442.0,758.4420417810613
+Ridge (전체 세트(18)),Batch2_test,Batch 2,42,5.2C(50%)-4.25C,474.0,863.7914322133967
+Ridge (전체 세트(18)),Batch2_test,Batch 2,43,4.8C(80%)-4.8C,1029.0,1000.6656581953797
+Ridge (전체 세트(18)),Batch2_test,Batch 2,44,5.2C(58%)-4C,841.0,992.5389013261305
+Ridge (전체 세트(18)),Batch2_test,Batch 2,45,5.6C(26%)-4.5C,997.0,932.0433534734285
+Ridge (전체 세트(18)),Batch2_test,Batch 2,46,4.8C(80%)-4.8C,503.0,873.586062590214
+Ridge (전체 세트(18)),Batch3_test,Batch 3,0,5C(67%)-4C,1009.0,824.370190155952
+Ridge (전체 세트(18)),Batch3_test,Batch 3,1,5.3C(54%)-4C,1063.0,786.3760339547937
+Ridge (전체 세트(18)),Batch3_test,Batch 3,2,5.6C(19%)-4.6C,1267.0,806.8269710100424
+Ridge (전체 세트(18)),Batch3_test,Batch 3,3,5.6C(36%)-4.3C,1115.0,730.3011404910487
+Ridge (전체 세트(18)),Batch3_test,Batch 3,4,5.6C(19%)-4.6C,1048.0,805.4765185692254
+Ridge (전체 세트(18)),Batch3_test,Batch 3,5,5.6C(36%)-4.3C,828.0,678.973799889294
+Ridge (전체 세트(18)),Batch3_test,Batch 3,6,3.7C(31%)-5.9C,667.0,548.971784281228
+Ridge (전체 세트(18)),Batch3_test,Batch 3,7,4.8C(80%)-4.8C,1836.0,927.8380156950128
+Ridge (전체 세트(18)),Batch3_test,Batch 3,8,5C(67%)-4C,828.0,786.9052974028448
+Ridge (전체 세트(18)),Batch3_test,Batch 3,9,5.3C(54%)-4C,1039.0,783.0246211793618
+Ridge (전체 세트(18)),Batch3_test,Batch 3,10,4.8C(80%)-4.8C,1078.0,875.7617997132355
+Ridge (전체 세트(18)),Batch3_test,Batch 3,11,5.6C(19%)-4.6C,817.0,720.0011755332374
+Ridge (전체 세트(18)),Batch3_test,Batch 3,12,5.6C(36%)-4.3C,932.0,774.8760640797318
+Ridge (전체 세트(18)),Batch3_test,Batch 3,13,5.6C(19%)-4.6C,816.0,749.7299307005859
+Ridge (전체 세트(18)),Batch3_test,Batch 3,14,5.6C(36%)-4.3C,858.0,789.0896893880216
+Ridge (전체 세트(18)),Batch3_test,Batch 3,15,5.9C(15%)-4.6C,876.0,731.0373275473328
+Ridge (전체 세트(18)),Batch3_test,Batch 3,16,4.8C(80%)-4.8C,1638.0,908.8888355692528
+Ridge (전체 세트(18)),Batch3_test,Batch 3,17,5.3C(54%)-4C,1315.0,819.268768528559
+Ridge (전체 세트(18)),Batch3_test,Batch 3,18,5.6C(19%)-4.6C,1146.0,767.1606190637606
+Ridge (전체 세트(18)),Batch3_test,Batch 3,19,5.6C(36%)-4.3C,1155.0,778.7983955469745
+Ridge (전체 세트(18)),Batch3_test,Batch 3,20,5C(67%)-4C,813.0,775.7219702041324
+Ridge (전체 세트(18)),Batch3_test,Batch 3,21,3.7C(31%)-5.9C,772.0,622.087997822564
+Ridge (전체 세트(18)),Batch3_test,Batch 3,22,5.9C(60%)-3.1C,1002.0,679.9189563401467
+Ridge (전체 세트(18)),Batch3_test,Batch 3,24,5C(67%)-4C,825.0,719.6161769699836
+Ridge (전체 세트(18)),Batch3_test,Batch 3,25,5.3C(54%)-4C,989.0,763.5578998400925
+Ridge (전체 세트(18)),Batch3_test,Batch 3,26,5.6C(19%)-4.6C,1028.0,807.5541304772372
+Ridge (전체 세트(18)),Batch3_test,Batch 3,27,5.6C(36%)-4.3C,850.0,731.7032049296766
+Ridge (전체 세트(18)),Batch3_test,Batch 3,28,3.7C(31%)-5.9C,541.0,502.12899815032915
+Ridge (전체 세트(18)),Batch3_test,Batch 3,29,5.9C(15%)-4.6C,858.0,752.8653427159896
+Ridge (전체 세트(18)),Batch3_test,Batch 3,30,5.3C(54%)-4C,935.0,799.4882239114582
+Ridge (전체 세트(18)),Batch3_test,Batch 3,31,5.9C(60%)-3.1C,731.0,708.8552968208802
+Ridge (전체 세트(18)),Batch3_test,Batch 3,33,5C(67%)-4C,1284.0,806.0580433779032
+Ridge (전체 세트(18)),Batch3_test,Batch 3,34,5.3C(54%)-4C,1158.0,768.6218433758582
+Ridge (전체 세트(18)),Batch3_test,Batch 3,35,5.6C(19%)-4.6C,1093.0,752.0186110626316
+Ridge (전체 세트(18)),Batch3_test,Batch 3,36,5.6C(36%)-4.3C,923.0,723.0768866996281
+Ridge (전체 세트(18)),Batch3_test,Batch 3,37,4.8C(80%)-4.8C,1390.0,875.484799616241
+Ridge (전체 세트(18)),Batch3_test,Batch 3,38,5C(67%)-4C,1935.0,847.7589415876718
+Ridge (전체 세트(18)),Batch3_test,Batch 3,39,5.3C(54%)-4C,1156.0,746.9309520263415
+Ridge (전체 세트(18)),Batch3_test,Batch 3,40,5.6C(19%)-4.6C,796.0,757.1841808842329
+Ridge (전체 세트(18)),Batch3_test,Batch 3,41,5.6C(36%)-4.3C,786.0,750.3536311787686
+Ridge (전체 세트(18)),Batch3_test,Batch 3,42,4.8C(80%)-4.8C,1642.0,917.7352500179538
+Ridge (전체 세트(18)),Batch3_test,Batch 3,43,5C(67%)-4C,1046.0,866.8122737351507
+Ridge (전체 세트(18)),Batch3_test,Batch 3,44,5.3C(54%)-4C,940.0,806.3438895968952
+Ridge (전체 세트(18)),Batch3_test,Batch 3,45,4.8C(80%)-4.8C,1801.0,940.6824335327772
+Random Forest (전체 세트(18)),Batch1_valid,Batch 1,5,4.4C(80%)-4.4C,1074.0,860.3209279578465
+Random Forest (전체 세트(18)),Batch1_valid,Batch 1,6,4.8C(80%)-4.8C,636.0,810.0069873072136
+Random Forest (전체 세트(18)),Batch1_valid,Batch 1,7,4.8C(80%)-4.8C,870.0,861.3737146206411
+Random Forest (전체 세트(18)),Batch1_valid,Batch 1,23,6C(30%)-3.6C,1014.0,918.8740655960922
+Random Forest (전체 세트(18)),Batch1_valid,Batch 1,38,7C(40%)-3.6C,617.0,607.8977579595621
+Random Forest (전체 세트(18)),Batch1_valid,Batch 1,39,7C(40%)-3.6C,625.0,645.9086589992389
+Random Forest (전체 세트(18)),Batch1_valid,Batch 1,40,8C(15%)-3.6C,966.0,816.8587555436676
+Random Forest (전체 세트(18)),Batch1_valid,Batch 1,41,8C(15%)-3.6C,1051.0,828.0164597690455
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,0,5.2C(58%)-4C,477.0,665.4504327646124
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,1,5.6C(26%)-4.5C,491.0,646.5405242157366
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,2,5.2C(50%)-4.25C,424.0,679.3410795302068
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,3,4.65C(44%)-5C,499.0,698.5112591246193
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,4,4.65C(69%)-6C,444.0,647.1991247200642
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,5,3.6C(30%)-6C,416.0,643.0842481865241
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,6,3.6C(9%)-5C,393.0,746.1259036274713
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,7,4.8C(80%)-4.8C,777.0,829.3371652940896
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,8,5.2C(58%)-4C,904.0,837.0237180916748
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,9,5.6C(26%)-4.5C,791.0,834.7622458020357
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,10,4.8C(80%)-4.8C,492.0,661.9045566330526
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,11,5.2C(50%)-4.25C,449.0,698.3161817603242
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,12,4.65C(44%)-5C,466.0,660.9773647056012
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,13,4.65C(69%)-6C,460.0,653.8572539049331
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,14,3.6C(30%)-6C,426.0,645.8342958097896
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,15,3.6C(9%)-5C,396.0,722.2211391120323
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,16,4.8C(80%)-4.8C,472.0,656.4397905346838
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,17,5.6C(26%)-4.5C,471.0,701.097123403948
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,18,5.2C(50%)-4.25C,449.0,766.2331622446972
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,19,6C(60%)-3C,392.0,617.088582186856
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,20,5.2C(58%)-4C,489.0,699.1413980613305
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,21,6C(60%)-3C,408.0,616.7175322226835
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,24,4.8C(80%)-4.8C,514.0,759.2892512812632
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,25,5.2C(58%)-4C,493.0,749.2426114903566
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,26,5.6C(26%)-4.5C,450.0,660.9942539092522
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,27,5.2C(50%)-4.25C,474.0,699.0336378753987
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,28,4.8C(80%)-4.8C,437.0,659.9799578831206
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,29,5.2C(58%)-4C,452.0,676.7162618087926
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,30,5.6C(26%)-4.5C,412.0,644.7850288853336
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,31,5.6C(26%)-4.5C,425.0,661.7813712325002
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,32,4.8C(80%)-4.8C,809.0,839.6394714248022
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,33,5.2C(58%)-4C,1140.0,819.3013187924637
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,34,5.6C(26%)-4.5C,1186.0,805.6308411258157
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,41,5.6C(26%)-4.5C,442.0,663.271860570993
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,42,5.2C(50%)-4.25C,474.0,664.012237334543
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,43,4.8C(80%)-4.8C,1029.0,829.6438364171383
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,44,5.2C(58%)-4C,841.0,842.897595997867
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,45,5.6C(26%)-4.5C,997.0,824.8024097758008
+Random Forest (전체 세트(18)),Batch2_test,Batch 2,46,4.8C(80%)-4.8C,503.0,698.0277846972632
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,0,5C(67%)-4C,1009.0,835.0164958098255
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,1,5.3C(54%)-4C,1063.0,823.6902772767494
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,2,5.6C(19%)-4.6C,1267.0,820.0449080943663
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,3,5.6C(36%)-4.3C,1115.0,829.2112414223323
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,4,5.6C(19%)-4.6C,1048.0,841.724516838154
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,5,5.6C(36%)-4.3C,828.0,833.6920036137753
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,6,3.7C(31%)-5.9C,667.0,648.2005627808171
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,7,4.8C(80%)-4.8C,1836.0,845.7753165442211
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,8,5C(67%)-4C,828.0,843.6639901471137
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,9,5.3C(54%)-4C,1039.0,847.9517452038676
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,10,4.8C(80%)-4.8C,1078.0,852.5899434011461
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,11,5.6C(19%)-4.6C,817.0,823.3032928565503
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,12,5.6C(36%)-4.3C,932.0,845.8989920777964
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,13,5.6C(19%)-4.6C,816.0,832.9159905050304
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,14,5.6C(36%)-4.3C,858.0,851.0047180703738
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,15,5.9C(15%)-4.6C,876.0,838.9307508109787
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,16,4.8C(80%)-4.8C,1638.0,824.5920450364349
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,17,5.3C(54%)-4C,1315.0,814.4568702276054
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,18,5.6C(19%)-4.6C,1146.0,819.0198885792678
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,19,5.6C(36%)-4.3C,1155.0,827.7956910390195
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,20,5C(67%)-4C,813.0,846.0447594893171
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,21,3.7C(31%)-5.9C,772.0,713.4523472830454
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,22,5.9C(60%)-3.1C,1002.0,793.1482678958255
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,24,5C(67%)-4C,825.0,833.1940728067847
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,25,5.3C(54%)-4C,989.0,832.5337087412365
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,26,5.6C(19%)-4.6C,1028.0,834.7130704587182
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,27,5.6C(36%)-4.3C,850.0,825.4764532065107
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,28,3.7C(31%)-5.9C,541.0,632.4032924526897
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,29,5.9C(15%)-4.6C,858.0,846.2763305950491
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,30,5.3C(54%)-4C,935.0,845.3020322866859
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,31,5.9C(60%)-3.1C,731.0,792.8191308506299
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,33,5C(67%)-4C,1284.0,840.5297833200664
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,34,5.3C(54%)-4C,1158.0,825.3464896705289
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,35,5.6C(19%)-4.6C,1093.0,826.5533530973769
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,36,5.6C(36%)-4.3C,923.0,821.7401435123563
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,37,4.8C(80%)-4.8C,1390.0,810.830660751696
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,38,5C(67%)-4C,1935.0,836.1401755327387
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,39,5.3C(54%)-4C,1156.0,834.7504764208945
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,40,5.6C(19%)-4.6C,796.0,827.4439176288015
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,41,5.6C(36%)-4.3C,786.0,834.377101656219
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,42,4.8C(80%)-4.8C,1642.0,858.7342411566353
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,43,5C(67%)-4C,1046.0,847.3644674066917
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,44,5.3C(54%)-4C,940.0,844.9639713339026
+Random Forest (전체 세트(18)),Batch3_test,Batch 3,45,4.8C(80%)-4.8C,1801.0,855.9786020391527
+HistGradientBoosting (전체 세트(18)),Batch1_valid,Batch 1,5,4.4C(80%)-4.4C,1074.0,915.6657487470894
+HistGradientBoosting (전체 세트(18)),Batch1_valid,Batch 1,6,4.8C(80%)-4.8C,636.0,808.1384972410185
+HistGradientBoosting (전체 세트(18)),Batch1_valid,Batch 1,7,4.8C(80%)-4.8C,870.0,917.7936436969627
+HistGradientBoosting (전체 세트(18)),Batch1_valid,Batch 1,23,6C(30%)-3.6C,1014.0,930.7016505133753
+HistGradientBoosting (전체 세트(18)),Batch1_valid,Batch 1,38,7C(40%)-3.6C,617.0,636.6636561218115
+HistGradientBoosting (전체 세트(18)),Batch1_valid,Batch 1,39,7C(40%)-3.6C,625.0,648.2535734341667
+HistGradientBoosting (전체 세트(18)),Batch1_valid,Batch 1,40,8C(15%)-3.6C,966.0,764.5892821417532
+HistGradientBoosting (전체 세트(18)),Batch1_valid,Batch 1,41,8C(15%)-3.6C,1051.0,815.0812614151545
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,0,5.2C(58%)-4C,477.0,652.4416151081166
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,1,5.6C(26%)-4.5C,491.0,646.6291773750653
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,2,5.2C(50%)-4.25C,424.0,642.6562047535991
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,3,4.65C(44%)-5C,499.0,668.6146803939632
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,4,4.65C(69%)-6C,444.0,630.0431234839382
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,5,3.6C(30%)-6C,416.0,627.5045685548391
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,6,3.6C(9%)-5C,393.0,727.01292353887
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,7,4.8C(80%)-4.8C,777.0,791.7521918446439
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,8,5.2C(58%)-4C,904.0,797.5094137741503
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,9,5.6C(26%)-4.5C,791.0,789.3302602594146
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,10,4.8C(80%)-4.8C,492.0,667.3667022637761
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,11,5.2C(50%)-4.25C,449.0,659.3613143306999
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,12,4.65C(44%)-5C,466.0,641.0558296944633
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,13,4.65C(69%)-6C,460.0,634.0261328578315
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,14,3.6C(30%)-6C,426.0,622.0667102035216
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,15,3.6C(9%)-5C,396.0,654.8400816440083
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,16,4.8C(80%)-4.8C,472.0,675.2684950420924
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,17,5.6C(26%)-4.5C,471.0,676.0719126613396
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,18,5.2C(50%)-4.25C,449.0,677.2037071528905
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,19,6C(60%)-3C,392.0,584.9287438982935
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,20,5.2C(58%)-4C,489.0,632.1263797857462
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,21,6C(60%)-3C,408.0,589.7547092213733
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,24,4.8C(80%)-4.8C,514.0,733.3214390281181
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,25,5.2C(58%)-4C,493.0,709.3767844411229
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,26,5.6C(26%)-4.5C,450.0,646.1246549574059
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,27,5.2C(50%)-4.25C,474.0,659.3613143306999
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,28,4.8C(80%)-4.8C,437.0,667.3862520194182
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,29,5.2C(58%)-4C,452.0,652.4416151081166
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,30,5.6C(26%)-4.5C,412.0,646.5898018035786
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,31,5.6C(26%)-4.5C,425.0,646.9759237854109
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,32,4.8C(80%)-4.8C,809.0,793.7578558671887
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,33,5.2C(58%)-4C,1140.0,772.0889237929191
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,34,5.6C(26%)-4.5C,1186.0,744.9575712357073
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,41,5.6C(26%)-4.5C,442.0,652.5967054823865
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,42,5.2C(50%)-4.25C,474.0,652.460727650146
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,43,4.8C(80%)-4.8C,1029.0,809.3008038234441
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,44,5.2C(58%)-4C,841.0,880.1996512801994
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,45,5.6C(26%)-4.5C,997.0,788.7920411527942
+HistGradientBoosting (전체 세트(18)),Batch2_test,Batch 2,46,4.8C(80%)-4.8C,503.0,665.8556201568158
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,0,5C(67%)-4C,1009.0,876.7246502425999
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,1,5.3C(54%)-4C,1063.0,811.626246428391
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,2,5.6C(19%)-4.6C,1267.0,815.333791719462
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,3,5.6C(36%)-4.3C,1115.0,818.9097625870515
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,4,5.6C(19%)-4.6C,1048.0,867.1956676816678
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,5,5.6C(36%)-4.3C,828.0,823.9121799632263
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,6,3.7C(31%)-5.9C,667.0,704.6451885439989
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,7,4.8C(80%)-4.8C,1836.0,856.3040129335576
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,8,5C(67%)-4C,828.0,859.5719949456671
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,9,5.3C(54%)-4C,1039.0,854.7134851639166
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,10,4.8C(80%)-4.8C,1078.0,863.313622117282
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,11,5.6C(19%)-4.6C,817.0,802.3898564179783
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,12,5.6C(36%)-4.3C,932.0,857.7955950180667
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,13,5.6C(19%)-4.6C,816.0,821.2355625452203
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,14,5.6C(36%)-4.3C,858.0,866.837738265853
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,15,5.9C(15%)-4.6C,876.0,840.5425143766834
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,16,4.8C(80%)-4.8C,1638.0,820.9608011544258
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,17,5.3C(54%)-4C,1315.0,744.1598677726322
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,18,5.6C(19%)-4.6C,1146.0,815.3471956210358
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,19,5.6C(36%)-4.3C,1155.0,828.105299639988
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,20,5C(67%)-4C,813.0,849.9899832734875
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,21,3.7C(31%)-5.9C,772.0,682.3268258120554
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,22,5.9C(60%)-3.1C,1002.0,743.8055290506607
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,24,5C(67%)-4C,825.0,836.5778908675845
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,25,5.3C(54%)-4C,989.0,824.3538089601689
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,26,5.6C(19%)-4.6C,1028.0,840.7268048994846
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,27,5.6C(36%)-4.3C,850.0,827.3936570932308
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,28,3.7C(31%)-5.9C,541.0,648.4270645979116
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,29,5.9C(15%)-4.6C,858.0,880.4835760386821
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,30,5.3C(54%)-4C,935.0,882.8029337859268
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,31,5.9C(60%)-3.1C,731.0,770.4068200222246
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,33,5C(67%)-4C,1284.0,864.2801148400747
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,34,5.3C(54%)-4C,1158.0,812.5275862555025
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,35,5.6C(19%)-4.6C,1093.0,818.9097625870515
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,36,5.6C(36%)-4.3C,923.0,820.543240860747
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,37,4.8C(80%)-4.8C,1390.0,753.6544647959622
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,38,5C(67%)-4C,1935.0,844.9818585800522
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,39,5.3C(54%)-4C,1156.0,838.1567700318689
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,40,5.6C(19%)-4.6C,796.0,827.4072592562405
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,41,5.6C(36%)-4.3C,786.0,849.8486719294569
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,42,4.8C(80%)-4.8C,1642.0,886.0274492613953
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,43,5C(67%)-4C,1046.0,849.3335975644924
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,44,5.3C(54%)-4C,940.0,876.0096455729217
+HistGradientBoosting (전체 세트(18)),Batch3_test,Batch 3,45,4.8C(80%)-4.8C,1801.0,880.7946373065064
